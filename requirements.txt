@@ -1,0 +1,9 @@
+neo4j-graphrag[openai]
+
+selenium
+webdriver-manager
+pandas
+openpyxl
+
+ipykernel
+jupyter
